@@ -3,3 +3,4 @@ bread
 milk
 candy  
 kinderjoy
+chocolate
